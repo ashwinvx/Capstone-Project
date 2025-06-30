@@ -6,3 +6,10 @@ Below are the datasets which will be used for this application.
 Api 
  https://www.kaggle.com/search?q=dietary
  https://datasetsearch.research.google.com/
+
+
+
+ Travel Journal App: Users log travel experiences, upload photos, and share stories with a community
+
+
+ Stock Market Portfolio App: Track and manage investment portfolios, fetch real-time stock data, and visualize performance with charts
